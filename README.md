@@ -4,3 +4,4 @@ Many special features.
 Different speed for falling pieces(might be purchased)
 You can either play with premium account or standart one.
 Will be avilable on IOS/Android and possibly Windows.
+S
